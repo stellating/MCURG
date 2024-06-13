@@ -1,5 +1,3 @@
-# MCURG
-
 # Unbiased Diagnostic Report Generation via
 Multi-modal Counterfactual Inference
 
