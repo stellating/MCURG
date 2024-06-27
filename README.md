@@ -1,5 +1,4 @@
-# Unbiased Diagnostic Report Generation via
-Multi-modal Counterfactual Inference
+# Unbiased Diagnostic Report Generation via Multi-modal Counterfactual Inference
 
 ## Abstract
 
